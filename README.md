@@ -22,6 +22,8 @@ Backend: PHP
 
 Database: MySQL
 
+Email Notifications: PHPMailer
+
 🌟 Highlights
 
 Efficient Appointments: Streamlined process for booking and managing appointments.
@@ -50,6 +52,12 @@ Import the hospital_db.sql file into your MySQL database.
 
 Update the database configuration in the config.php file.
 
+Configure PHPMailer:
+
+Download PHPMailer and include it in your project.
+
+Update the mail configuration settings in the mail_config.php file with your SMTP details.
+
 Start the Server:
 
 Deploy the application on a local or remote server with PHP support.
@@ -67,5 +75,3 @@ Open your browser and navigate to the application URL to start using the hospita
 Name: Zablon
 
 Email: zablonombiri001@gmail.com
-
-Explore the features and functionalities of our Hospital Website, and streamline your appointment management with ease!
