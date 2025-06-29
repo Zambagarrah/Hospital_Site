@@ -1,8 +1,8 @@
-💉 Hospital Website
+<h1>💉 Hospital Website</h1>
 
 Welcome to the Hospital Website! This project is designed to streamline appointment bookings and provide a user-friendly experience for both patients and hospital staff. Built with PHP, MySQL, HTML, CSS, and JavaScript, this website ensures seamless management and communication.
 
-🚀 Features
+##🚀 Features
 
 Appointment Booking: Easily schedule appointments with a simple and intuitive interface.
 
@@ -14,7 +14,7 @@ Secure Data Handling: Ensure patient data confidentiality with robust security m
 
 Interactive Elements: Enhance user interaction with dynamic JavaScript features.
 
-🛠️ Technologies Used
+##🛠️ Technologies Used
 
 Frontend: HTML, CSS, JavaScript
 
@@ -24,7 +24,7 @@ Database: MySQL
 
 Email Notifications: PHPMailer
 
-🌟 Highlights
+##🌟 Highlights
 
 Efficient Appointments: Streamlined process for booking and managing appointments.
 
@@ -36,7 +36,7 @@ Security Focused: Implementation of best practices to protect patient data.
 
 Interactive Experience: Engaging user interface with dynamic JavaScript elements.
 
-📦 Installation
+##📦 Installation
 
 Clone the Repository:
 ```
