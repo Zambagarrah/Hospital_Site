@@ -14,7 +14,7 @@ Secure Data Handling: Ensure patient data confidentiality with robust security m
 
 Interactive Elements: Enhance user interaction with dynamic JavaScript features.
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Frontend: HTML, CSS, JavaScript
 
@@ -24,7 +24,7 @@ Database: MySQL
 
 Email Notifications: PHPMailer
 
-##🌟 Highlights
+## 🌟 Highlights
 
 Efficient Appointments: Streamlined process for booking and managing appointments.
 
@@ -36,7 +36,7 @@ Security Focused: Implementation of best practices to protect patient data.
 
 Interactive Experience: Engaging user interface with dynamic JavaScript elements.
 
-##📦 Installation
+## 📦 Installation
 
 Clone the Repository:
 ```
