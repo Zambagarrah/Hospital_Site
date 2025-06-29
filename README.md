@@ -2,7 +2,7 @@
 
 Welcome to the Hospital Website! This project is designed to streamline appointment bookings and provide a user-friendly experience for both patients and hospital staff. Built with PHP, MySQL, HTML, CSS, and JavaScript, this website ensures seamless management and communication.
 
-##🚀 Features
+## 🚀 Features
 
 Appointment Booking: Easily schedule appointments with a simple and intuitive interface.
 
