@@ -4,15 +4,11 @@ Welcome to the Hospital Website! This project is designed to streamline appointm
 
 ## 🚀 Features
 
-Appointment Booking: Easily schedule appointments with a simple and intuitive interface.
-
-Email Notifications: Automatically send confirmation emails to patients using PHPMailer.
-
-User-Friendly UI: Attractive and responsive design for a pleasant user experience.
-
-Secure Data Handling: Ensure patient data confidentiality with robust security measures.
-
-Interactive Elements: Enhance user interaction with dynamic JavaScript features.
+- Appointment Booking: Easily schedule appointments with a simple and intuitive interface.
+- Email Notifications: Automatically send confirmation emails to patients using PHPMailer.
+- User-Friendly UI: Attractive and responsive design for a pleasant user experience.
+- Secure Data Handling: Ensure patient data confidentiality with robust security measures.
+- Interactive Elements: Enhance user interaction with dynamic JavaScript features.
 
 ## 🛠️ Technologies Used
 
