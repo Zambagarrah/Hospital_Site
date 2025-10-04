@@ -12,62 +12,52 @@ Welcome to the Hospital Website! This project is designed to streamline appointm
 
 ## Technologies Used
 
-Frontend: HTML, CSS, JavaScript
+> Frontend: HTML, CSS, JavaScript
 
-Backend: PHP
+> Backend: PHP
 
-Database: MySQL
+> Database: MySQL
 
-Email Notifications: PHPMailer
+> Email Notifications: PHPMailer
 
 ## Highlights
 
-Efficient Appointments: Streamlined process for booking and managing appointments.
-
-Email Integration: Automatically send appointment confirmations using PHPMailer.
-
-Professional Design: Clean, attractive, and responsive UI that adapts to different devices.
-
-Security Focused: Implementation of best practices to protect patient data.
-
-Interactive Experience: Engaging user interface with dynamic JavaScript elements.
+- Efficient Appointments: Streamlined process for booking and managing appointments.
+- Email Integration: Automatically send appointment confirmations using PHPMailer.
+- Professional Design: Clean, attractive, and responsive UI that adapts to different devices.
+- Security Focused: Implementation of best practices to protect patient data.
+- Interactive Experience: Engaging user interface with dynamic JavaScript elements.
 
 ## Installation
 
-Clone the Repository:
+1. Clone the Repository:
 ```
 git clone https://github.com/Zambagarrah/Hospital_Site.git
 ```
-Move to the project's directory
+2. Move to the project's directory
 ```
 cd Hospital_Site
 ```
-Set Up the Database:
+3. Set Up the Database:
+4. Import the hospital_db.sql file into your MySQL database.
+5. Update the database configuration in the config.php file.
+6. Configure PHPMailer:
+- Download PHPMailer and include it in your project.
+- Update the mail configuration settings in the mail_config.php file with your SMTP details.
 
-Import the hospital_db.sql file into your MySQL database.
-
-Update the database configuration in the config.php file.
-
-Configure PHPMailer:
-
-Download PHPMailer and include it in your project.
-
-Update the mail configuration settings in the mail_config.php file with your SMTP details.
-
-Start the Server:
+## Start the Server:
 
 Deploy the application on a local or remote server with PHP support.
 
-Enjoy:
+**Enjoy:**
 
 Open your browser and navigate to the application URL to start using the hospital website!
 
- Contributing We welcome contributions! If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
+## Contributing We welcome contributions! If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
- License This project is licensed under the MIT License. See the LICENSE file for details.
+## License This project is licensed under the MIT License. See the LICENSE file for details.
 
- Contact For any inquiries, feel free to reach out:
+## Contact For any inquiries, feel free to reach out:
 
-Name: Zablon
-
-Email: zablonombiri001@gmail.com
+Name: **Z_abby**
+Email: [My Email](zablonombiri001@gmail.com)
