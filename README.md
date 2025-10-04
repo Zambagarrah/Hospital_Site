@@ -10,7 +10,7 @@ Welcome to the Hospital Website! This project is designed to streamline appointm
 - Secure Data Handling: Ensure patient data confidentiality with robust security measures.
 - Interactive Elements: Enhance user interaction with dynamic JavaScript features.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 Frontend: HTML, CSS, JavaScript
 
@@ -20,7 +20,7 @@ Database: MySQL
 
 Email Notifications: PHPMailer
 
-## 🌟 Highlights
+## Highlights
 
 Efficient Appointments: Streamlined process for booking and managing appointments.
 
@@ -32,7 +32,7 @@ Security Focused: Implementation of best practices to protect patient data.
 
 Interactive Experience: Engaging user interface with dynamic JavaScript elements.
 
-## 📦 Installation
+## Installation
 
 Clone the Repository:
 ```
@@ -62,11 +62,11 @@ Enjoy:
 
 Open your browser and navigate to the application URL to start using the hospital website!
 
-🤝 Contributing We welcome contributions! If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
+ Contributing We welcome contributions! If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
-📄 License This project is licensed under the MIT License. See the LICENSE file for details.
+ License This project is licensed under the MIT License. See the LICENSE file for details.
 
-📧 Contact For any inquiries, feel free to reach out:
+ Contact For any inquiries, feel free to reach out:
 
 Name: Zablon
 
